@@ -1,1 +1,1 @@
-LES idees du ML
+Ceci est un projet initié par Benjamin Benteke.L'objectif est d'aider les apprenants à monter un projet de AI/ML de bout en bout. 
